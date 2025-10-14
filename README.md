@@ -6,7 +6,7 @@
 
 Detailed description use AI
 
-![Running Calculator]()
+![Running Calculator](https://github.com/Kai535813/portfolio/blob/main/images/Calc%20Ex.png?raw=true)
 
 * [Windows EXE]()
 * [MacOSX]()
