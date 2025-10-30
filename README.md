@@ -26,7 +26,7 @@ Concepts: OOP, event-driven programming, GUI design, real-time feedback
 ![Running Calculator](https://github.com/Kai535813/portfolio/blob/main/images/Calc%20Ex.png?raw=true)
 
 * [Windows EXE](https://github.com/Kai535813/portfolio/blob/main/src/windows-amd64.zip)
-* [MacOSX](https://github.com/Kai535813/portfolio/blob/main/src/macos-aarch64.zip)
+* [MacOSX](https://github.com/Kai535813/portfolio/blob/main/src/CalculatorF/macos-aarch64.zip)
 * [Source Code](https://github.com/Kai535813/portfolio/tree/main/src/CalculatorF)
 
 ![Calculator UML](https://github.com/Kai535813/portfolio/blob/main/images/Calculator%20UML.jpg?raw=true)
