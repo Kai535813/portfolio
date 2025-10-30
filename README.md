@@ -4,19 +4,9 @@
 
 ### Calculator (2025)
 
-This project is a fully interactive scientific calculator developed using Processing, a Java-based graphical programming environment. The calculator features a clean graphical user interface (GUI) and supports basic arithmetic operations. 
-
-Core Functionalities:
-Basic arithmetic: addition, subtraction, multiplication, division
-Advanced operations: square root, sine, cosine, negation (±), and random number generation
-Decimal input handling for floating-point calculations
-Interactive display that shows current inputs and results in real-time
-
-Technical Highlights:
-Object-oriented design using a custom Button class to manage interactivity
-Mouse-based event handling with hover detection and click recognition
-Input state management (left operand, right operand, and operation tracking)
-Prevention of invalid operations (e.g., multiple decimals, negative square roots)
+This Processing program is an interactive graphical calculator that supports both keyboard and mouse input. It performs standard arithmetic operations—addition, subtraction, multiplication, and division—as well as advanced functions such as square root, sine, cosine, negation (±), and random number generation.
+The interface is built using a custom Button class that manages rendering, color changes on hover, and click detection. The calculator maintains internal state variables for the left and right operands, the selected operator, and the display value. Results are dynamically updated on a digital-style display.
+Overall, the project demonstrates structured event handling, object-oriented interface design, and integration of mathematical operations within an interactive Processing environment.
 
 Technologies Used:
 Language: Java (Processing)
