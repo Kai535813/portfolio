@@ -25,6 +25,7 @@ Concepts: OOP, event-driven programming, GUI design, real-time feedback
 
 ### Musikhelfer
 
+Musikhelfer is a interactive programme that is comprised of four functions aimed for music utility. The four functions include an ear training page, a harmonizer, a tuner and a metrenome. The ear training page play random note intervals and displays a button per interval option. Depending on if the chosen interval is correct, then the side of the page will flash red or green corresponding to the result. The harmonizer allows users to input one measure of notes, it then can either play make the inputed group of notes, or display a harmonized chord with it will play along with the play back. The tuner has a button per note at the 4th octave that plays the chosen note using the piano timbre. The metrenome allows users to control speed via arrows that allow the metronome to go as fast as the programme can possibly handle.
 
-
+![Musikhelfer Programme (Tuner Page)]()
 * [Musikhelfer GitHub](https://github.com/Kai535813/Musikhelfer)
