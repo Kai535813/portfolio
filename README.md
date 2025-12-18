@@ -23,7 +23,9 @@ Concepts: OOP, event-driven programming, GUI design, real-time feedback
 
 ### Historic Computer Timeline
 
+This project is an interactive timeline created in Processing that visualizes key milestones in the early history of computing from the late 1930s to the early 1970s. The timeline displays major computational advancements as labeled nodes arranged along a horizontal axis, alternating above and below the timeline for clarity. Users can interact with the visualization by hovering over each event to reveal detailed historical information, allowing the design to remain clean while still providing depth. The project demonstrates effective use of modular programming, event-driven interaction, and visual design principles to communicate complex historical information in an accessible and engaging format.
 
+![Timeline]()
 
 * [Historic Computer Timeline Source Code](https://github.com/Kai535813/portfolio/blob/main/src/historicComputerTimeline/historicComputerTimeline.pde) 
 
