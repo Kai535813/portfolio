@@ -21,6 +21,12 @@ Concepts: OOP, event-driven programming, GUI design, real-time feedback
 
 ![Calculator UML](https://github.com/Kai535813/portfolio/blob/main/images/Calculator%20UML.jpg?raw=true)
 
+### Historic Computer Timeline
+
+
+
+* [Source Code](https://github.com/Kai535813/portfolio/blob/main/src/historicComputerTimeline/historicComputerTimeline.pde) 
+
 ## Term 2 Project
 
 ### Musikhelfer
