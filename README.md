@@ -25,7 +25,7 @@ Concepts: OOP, event-driven programming, GUI design, real-time feedback
 
 
 
-* [Source Code](https://github.com/Kai535813/portfolio/blob/main/src/historicComputerTimeline/historicComputerTimeline.pde) 
+* [Historic Computer Timeline Source Code](https://github.com/Kai535813/portfolio/blob/main/src/historicComputerTimeline/historicComputerTimeline.pde) 
 
 ## Term 2 Project
 
