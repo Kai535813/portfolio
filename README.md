@@ -1,6 +1,6 @@
 # Kai Chao | 2026 Portfolio
 
-## Term 1 Project
+## Term 1 Projects
 
 ### Calculator (2025)
 
