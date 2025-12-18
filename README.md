@@ -1,5 +1,9 @@
 # Kai Chao | 2026 Portfolio
 
+## Certification
+
+![](https://github.com/Kai535813/portfolio/blob/main/images/Kai%20Yun%20Chao_Computer%20Programming%201_12182025.pdf)
+
 ## Term 1 Projects
 
 ### Calculator (2025)
