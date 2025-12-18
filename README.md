@@ -25,9 +25,17 @@ Concepts: OOP, event-driven programming, GUI design, real-time feedback
 
 This project is an interactive timeline created in Processing that visualizes key milestones in the early history of computing from the late 1930s to the early 1970s. The timeline displays major computational advancements as labeled nodes arranged along a horizontal axis, alternating above and below the timeline for clarity. Users can interact with the visualization by hovering over each event to reveal detailed historical information, allowing the design to remain clean while still providing depth. The project demonstrates effective use of modular programming, event-driven interaction, and visual design principles to communicate complex historical information in an accessible and engaging format.
 
-![Timeline]()
+![Timeline](https://github.com/Kai535813/portfolio/blob/main/images/Timeline.png?raw=true)
 
-* [Historic Computer Timeline Source Code](https://github.com/Kai535813/portfolio/blob/main/src/historicComputerTimeline/historicComputerTimeline.pde) 
+* [Historic Computer Timeline Source Code](https://github.com/Kai535813/portfolio/blob/main/src/historicComputerTimeline/historicComputerTimeline.pde)
+
+### Grade Calculator 
+
+This is a interactive sliding bar with number marks corresponding to percentage points. The corresponding letter grade is then displayed on a scale of 0-4, which is just the general PBL/GPA scale.
+
+![Grade Graphic](https://github.com/Kai535813/portfolio/blob/main/images/Grades.png?raw=true)
+
+* [Grade Calculator Source Code](https://github.com/Kai535813/portfolio/blob/main/src/Calc_Grades/Calc_Grades.pde)
 
 ## Term 2 Project
 
