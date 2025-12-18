@@ -1,6 +1,6 @@
 # Kai Chao | 2026 Portfolio
 
-## Term 1 Projects
+## Term 1 Project
 
 ### Calculator (2025)
 
@@ -20,3 +20,11 @@ Concepts: OOP, event-driven programming, GUI design, real-time feedback
 * [Source Code](https://github.com/Kai535813/portfolio/tree/main/src/CalculatorF)
 
 ![Calculator UML](https://github.com/Kai535813/portfolio/blob/main/images/Calculator%20UML.jpg?raw=true)
+
+## Term 2 Project
+
+### Musikhelfer
+
+
+
+* [Musikhelfer GitHub]()
