@@ -8,7 +8,7 @@
 
 ### Zoog
 
-Zoog is possibly the most perfect being ever to have been mentioned in the portfolio. Zoog is a little majic man that users can drag across the screen for pure satifaction and fun. Since the background does not loop, Zoog can cover the entire screen.
+Zoog is possibly the most perfect being ever to have been mentioned in the portfolio. Zoog is a little majic man that users can drag across the screen for pure satifaction and fun. Since the background does not loop, Zoog can cover the entire screen. If the user uncomments out the background, then Zoog will remain single.
 
 ![Zoog Application](https://github.com/Kai535813/portfolio/blob/main/images/zoogDuo.png?raw=true) ![](https://github.com/Kai535813/portfolio/blob/main/images/zoogSingle.png?raw=true)
 
