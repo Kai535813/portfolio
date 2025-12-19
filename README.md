@@ -8,11 +8,11 @@
 
 ### Zoog
 
+Zoog is possibly the most perfect being ever to have been mentioned in the portfolio. Zoog is a little majic man that users can drag across the screen for pure satifaction and fun. Since the background does not loop, Zoog can cover the entire screen.
+
 ![Zoog Application]()
 
 *[Zoog Code]()
-
-Zoog is possibly the most perfect being ever to have been mentioned in the portfolio. Zoog is a little majic man that users can drag across the screen for pure satifaction and fun. Since the background does not loop, Zoog can cover the entire screen.
 
 ### Calculator (2025)
 
