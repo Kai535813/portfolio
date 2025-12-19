@@ -2,7 +2,7 @@
 
 ## Certification
 
-![Computer Programming 1](https://github.com/Kai535813/portfolio/blob/main/images/Kai%20Yun%20Chao_Computer%20Programming%201_12182025.pdf)
+![Computer Programming 1 (Click Here)](https://github.com/Kai535813/portfolio/blob/main/images/Kai%20Yun%20Chao_Computer%20Programming%201_12182025.pdf)
 
 ## Term 1 Projects
 
@@ -10,9 +10,9 @@
 
 Zoog is possibly the most perfect being ever to have been mentioned in the portfolio. Zoog is a little majic man that users can drag across the screen for pure satifaction and fun. Since the background does not loop, Zoog can cover the entire screen.
 
-![Zoog Application]()
+![Zoog Application](https://github.com/Kai535813/portfolio/blob/main/images/zoogDuo.png?raw=true) ![](https://github.com/Kai535813/portfolio/blob/main/images/zoogSingle.png?raw=true)
 
-*[Zoog Code]()
+*[Zoog Code](https://github.com/Kai535813/portfolio/blob/main/src/zoog/zoog.pde)
 
 ### Calculator (2025)
 
