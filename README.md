@@ -6,6 +6,14 @@
 
 ## Term 1 Projects
 
+### Zoog
+
+![Zoog Application]()
+
+*[Zoog Code]()
+
+Zoog is possibly the most perfect being ever to have been mentioned in the portfolio. Zoog is a little majic man that users can drag across the screen for pure satifaction and fun. Since the background does not loop, Zoog can cover the entire screen.
+
 ### Calculator (2025)
 
 This Processing program is an interactive graphical calculator that supports both keyboard and mouse input. It performs standard arithmetic operations—addition, subtraction, multiplication, and division—as well as advanced functions such as square root, sine, cosine, negation (±), and random number generation.
